@@ -1,1 +1,8 @@
-# solid-1.7-icons
+# Astro + UnoCSS
+
+Run
+
+```bash
+pnpm i
+pnpm dev
+```
